@@ -1,8 +1,9 @@
 # dify-front
 dify前端重构，基于vp+vue3
 
-## 自定义
-为了解决商用自定义，花了大量时间精力，对dify前端做了技术重构，基于vp+vue3+vueflow实现
+## 说明
+为了解决商用自定义，花了大量时间精力，对dify前端做了技术重构，基于vp+vue3+vueflow实现，如有需要，请联系difyfront@126.com
+
 
 ## 部分截图
 ### 登录页
